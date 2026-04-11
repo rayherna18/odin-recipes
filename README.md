@@ -1,0 +1,1 @@
+First official project of the Odin Project where I will be reviewing my fundamentals when it comes to HTML concepts like proper syntax, images, links, routing and file naming conventions. This project is done through the perspective as if I was doing this curriculum for the first time, therefore HTML only until I learn CSS and JS (through the course).
