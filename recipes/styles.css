@@ -1,0 +1,19 @@
+html {
+  background-color: #171717;
+  color: white;
+}
+
+body {
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+}
+
+.details {
+  display: flex;
+}
+
+.left-details,
+.right-details {
+  width: 50%;
+}
